@@ -42,8 +42,6 @@ CREATE TABLE `contacts` (
 INSERT INTO `contacts` (`sno`, `name`, `email`, `phone_num`, `message`, `date`) VALUES
 (3, 'vinutha P', 'vinutha@gmail.com', '8618180460', 'Hello, i have a doubt about this work', '2019-06-13 20:15:47'),
 (4, 'sindhu', 'sindhu@gmail.com', '4509878890', 'hello this is sindhu, i am an asshole', '2019-06-15 10:29:21'),
-(5, 'hazel', 'vinuthap333@gmail.com', '7766554433', 'hello , hazel here . I want access', '2019-06-15 11:05:08'),
-(6, 'hazel', 'vinuthap333@gmail.com', '7766554433', 'hello , hazel here . I want access', '2019-06-15 11:07:53'),
 (8, 'bhagya', 'bhagya@gmail.com', '6655443322', 'hello bhagya here.....', '2019-06-15 11:14:44'),
 (11, 'sam', 'sam@gmail.com', '4455667788', 'Hello this is sam', '2019-07-15 14:22:04'),
 (15, 'sanya', 'sanya@gmail.com', '4455667788', 'ajfbjdbfnsvn mbgsdbgnbdsngbsdnm', '2019-07-15 14:30:48'),
