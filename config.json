@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+    "local_server": "True",
+    "local_uri" : "mysql://root:@localhost/codingthunder",
+    "prod_uri": "mysql://root:@localhost/codingthunder",
+    "fb_uri" : "https://facebook.com",
+    "tw_uri": "https://twitter.com",
+    "git_uri": "https://github.com",
+    "blog_name" : "Think Fresh",
+    "head_name": "ThinkFresh",
+    "tag_name": "Grab inspiration,Get Motivated",
+    "contact_name": "Contact Me",
+    "contact_tag": "Have suggests? Just drop it down!",
+    "about_message" : "There are a lot of things that can provide inspiration, seeing other people accomplish great things, seeing other people overcome adversity, hearing inspirational quotes from great people, even the sheer beauty of nature can remind us just how lucky we are to be alive. Of course, there are times when its difficult to feel cheery or positive, life can be difficult. Some positive quotes about life can help onself to snap out of funk.This website is solely based to present stories of great minds to navigate towards better version of oneself ",
+     "no_of_posts": 2,
+    "login_img": "signin.jpg",
+    "admin_username" : "Admin",
+    "admin_password" : "admin123",
+    "upload_location" : "C:\\Users\\WINDOWS\\PycharmProjects\\BlogWebsite\\static\\uploader"
+  }
+}
