@@ -1,9 +1,36 @@
 # ThinkFresh-Blog
-This blog presents the inspirational stories of great legends to inspire people
 
-/dashboard end point has admin login
-This blog provides admin to add new post or edit the esxisting post and also delete existing post 
+This project is a blog which is built using Flask framework.
 
-/home end point has all the posts posted by admin and displays 2 posts at a time using pagation logic
+Front end : HTML, CSS, Javascript 
+Back end : python 3 (Flask framework with jinja2 component)
+Database : SQL 
 
-/contact end point provides nitizens of the blogs to drop any suggestions 
+# Flask
+
+Flask is a lightweight WSGI web application framework.
+Werkzeug and Jinja2 ,components of Flask framework are used in this project
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install flask.
+
+```bash
+pip install -U Flask
+```
+
+## Usage
+
+```python
+from flask import Flask
+
+app = Flask(__name__)
+@app.route('/')
+def hello_world():
+    return 'Hello, World!'
+```
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+
